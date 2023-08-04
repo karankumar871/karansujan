@@ -1,2 +1,2 @@
 # karansujan
-my first gt hub
+my first git hub
